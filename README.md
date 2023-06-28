@@ -33,3 +33,6 @@ Reading from and Writing to Files
 Classes and Objects
 Inheritance
 Polymorphism
+
+# Acknowledgments
+This Python review notebook was created by Pratyush Khengle as a quick revision resource for Python programming. It is based on personal knowledge and various online resources. If you find any errors or have suggestions for improvement, please feel free to contribute or reach out to pratyushkhengle@gmail.com.
